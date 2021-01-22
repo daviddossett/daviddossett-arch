@@ -15,6 +15,7 @@ function App() {
           <h2>Currently</h2>
           <h3>Microsoft</h3>
           <p>Senior Designer (2016 - Present)</p>
+          <p>Senior Designer (2016 - Present)</p>
         </section>
         <section>
           <h2>Projects</h2>
