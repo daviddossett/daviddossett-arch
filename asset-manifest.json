@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/%7Bdaviddossett.me%7D/static/css/main.18c8d3bd.chunk.css",
-    "main.js": "/%7Bdaviddossett.me%7D/static/js/main.3ca792df.chunk.js",
-    "main.js.map": "/%7Bdaviddossett.me%7D/static/js/main.3ca792df.chunk.js.map",
-    "runtime-main.js": "/%7Bdaviddossett.me%7D/static/js/runtime-main.962fedea.js",
-    "runtime-main.js.map": "/%7Bdaviddossett.me%7D/static/js/runtime-main.962fedea.js.map",
-    "static/js/2.68b67eda.chunk.js": "/%7Bdaviddossett.me%7D/static/js/2.68b67eda.chunk.js",
-    "static/js/2.68b67eda.chunk.js.map": "/%7Bdaviddossett.me%7D/static/js/2.68b67eda.chunk.js.map",
-    "static/js/3.fa7ac402.chunk.js": "/%7Bdaviddossett.me%7D/static/js/3.fa7ac402.chunk.js",
-    "static/js/3.fa7ac402.chunk.js.map": "/%7Bdaviddossett.me%7D/static/js/3.fa7ac402.chunk.js.map",
-    "index.html": "/%7Bdaviddossett.me%7D/index.html",
-    "static/css/main.18c8d3bd.chunk.css.map": "/%7Bdaviddossett.me%7D/static/css/main.18c8d3bd.chunk.css.map",
-    "static/js/2.68b67eda.chunk.js.LICENSE.txt": "/%7Bdaviddossett.me%7D/static/js/2.68b67eda.chunk.js.LICENSE.txt",
-    "static/media/headshot.c101a98c.jpg": "/%7Bdaviddossett.me%7D/static/media/headshot.c101a98c.jpg"
+    "main.css": "/%7Bdaviddossett%7D/static/css/main.18c8d3bd.chunk.css",
+    "main.js": "/%7Bdaviddossett%7D/static/js/main.3ca792df.chunk.js",
+    "main.js.map": "/%7Bdaviddossett%7D/static/js/main.3ca792df.chunk.js.map",
+    "runtime-main.js": "/%7Bdaviddossett%7D/static/js/runtime-main.20b70ebf.js",
+    "runtime-main.js.map": "/%7Bdaviddossett%7D/static/js/runtime-main.20b70ebf.js.map",
+    "static/js/2.68b67eda.chunk.js": "/%7Bdaviddossett%7D/static/js/2.68b67eda.chunk.js",
+    "static/js/2.68b67eda.chunk.js.map": "/%7Bdaviddossett%7D/static/js/2.68b67eda.chunk.js.map",
+    "static/js/3.fa7ac402.chunk.js": "/%7Bdaviddossett%7D/static/js/3.fa7ac402.chunk.js",
+    "static/js/3.fa7ac402.chunk.js.map": "/%7Bdaviddossett%7D/static/js/3.fa7ac402.chunk.js.map",
+    "index.html": "/%7Bdaviddossett%7D/index.html",
+    "static/css/main.18c8d3bd.chunk.css.map": "/%7Bdaviddossett%7D/static/css/main.18c8d3bd.chunk.css.map",
+    "static/js/2.68b67eda.chunk.js.LICENSE.txt": "/%7Bdaviddossett%7D/static/js/2.68b67eda.chunk.js.LICENSE.txt",
+    "static/media/headshot.c101a98c.jpg": "/%7Bdaviddossett%7D/static/media/headshot.c101a98c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.962fedea.js",
+    "static/js/runtime-main.20b70ebf.js",
     "static/js/2.68b67eda.chunk.js",
     "static/css/main.18c8d3bd.chunk.css",
     "static/js/main.3ca792df.chunk.js"
