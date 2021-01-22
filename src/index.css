@@ -1,7 +1,7 @@
 :root {
 	--backgroundPrimary: #121212;
 	--textColorPrimary: #ffffff;
-	--textColorSecondary: rgba(255, 255, 255, 0.5);
+	--textColorSecondary: rgba(255, 255, 255, 0.6);
 	--textSemibold: 600;
 	--textRegular: 400;
 	--divider: rgba(255, 255, 255, 0.15);
@@ -63,6 +63,7 @@ h3 {
 p {
 	font-weight: var(--textRegular);
 	font-size: 1.125em;
+	letter-spacing: 0.1px;
 }
 
 a {
