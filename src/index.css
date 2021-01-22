@@ -48,7 +48,7 @@ h1 {
 }
 
 h2 {
-	font-size: 0.9em;
+	font-size: 0.875em;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	color: var(--textColorSecondary);
@@ -62,11 +62,16 @@ h3 {
 
 p {
 	font-weight: var(--textRegular);
+	font-size: 1.125em;
 }
 
 a {
 	text-decoration: none;
 	color: var(--textColorPrimary);
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 .app {
@@ -84,7 +89,7 @@ a {
 
 .role {
 	color: var(--textColorSecondary);
-	font-size: 1.2em;
+	font-size: 1.125em;
 	margin: 0;
 }
 

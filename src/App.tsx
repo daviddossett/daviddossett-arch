@@ -25,10 +25,10 @@ function App() {
           <h3>Coming soon</h3>
         </section>
         <section className={'links'}>
-          <a href={'/'}>Twitter -&gt;</a>
-          <a href={'/'}>GitHub -&gt;</a>
-          <a href={'/'}>Instagram -&gt;</a>
-          <a href={'/'}>LinkedIn -&gt;</a>
+          <a href={'https://twitter.com/david_dossett'} target="blank">Twitter -&gt;</a>
+          <a href={'https://github.com/mistople'} target="blank">GitHub -&gt;</a>
+          <a href={'https://www.instagram.com/david_dossett/'} target="blank">Instagram -&gt;</a>
+          <a href={'https://www.linkedin.com/in/davidcdossett/'} target="blank">LinkedIn -&gt;</a>
         </section>
       </div>
     </div>
