@@ -9,7 +9,7 @@ function App() {
         <section className="header">
           <img src={headshot} className={'headshot'} alt='My headshot' />
           <h1>David Dossett</h1>
-          <p className={'role'}>Designer & Developer</p>
+          <p className={'role'}>Designer / developer</p>
         </section>
         <section>
           <h2>Currently</h2>
