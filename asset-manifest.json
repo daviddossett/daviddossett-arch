@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/daviddossett/static/css/main.18c8d3bd.chunk.css",
-    "main.js": "/daviddossett/static/js/main.8ba085d7.chunk.js",
-    "main.js.map": "/daviddossett/static/js/main.8ba085d7.chunk.js.map",
+    "main.css": "/daviddossett/static/css/main.2ebf0af0.chunk.css",
+    "main.js": "/daviddossett/static/js/main.65662500.chunk.js",
+    "main.js.map": "/daviddossett/static/js/main.65662500.chunk.js.map",
     "runtime-main.js": "/daviddossett/static/js/runtime-main.b942ea87.js",
     "runtime-main.js.map": "/daviddossett/static/js/runtime-main.b942ea87.js.map",
     "static/js/2.68b67eda.chunk.js": "/daviddossett/static/js/2.68b67eda.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.fa7ac402.chunk.js": "/daviddossett/static/js/3.fa7ac402.chunk.js",
     "static/js/3.fa7ac402.chunk.js.map": "/daviddossett/static/js/3.fa7ac402.chunk.js.map",
     "index.html": "/daviddossett/index.html",
-    "static/css/main.18c8d3bd.chunk.css.map": "/daviddossett/static/css/main.18c8d3bd.chunk.css.map",
+    "static/css/main.2ebf0af0.chunk.css.map": "/daviddossett/static/css/main.2ebf0af0.chunk.css.map",
     "static/js/2.68b67eda.chunk.js.LICENSE.txt": "/daviddossett/static/js/2.68b67eda.chunk.js.LICENSE.txt",
     "static/media/headshot.c101a98c.jpg": "/daviddossett/static/media/headshot.c101a98c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b942ea87.js",
     "static/js/2.68b67eda.chunk.js",
-    "static/css/main.18c8d3bd.chunk.css",
-    "static/js/main.8ba085d7.chunk.js"
+    "static/css/main.2ebf0af0.chunk.css",
+    "static/js/main.65662500.chunk.js"
   ]
 }
