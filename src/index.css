@@ -66,6 +66,7 @@ p {
 	color: var(--textColorSecondary);
 	font-size: 1em;
 	line-height: 1.5em;
+	letter-spacing: -0.3px;
 }
 
 a {
