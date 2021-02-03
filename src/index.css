@@ -9,7 +9,7 @@
 	--divider: rgba(0, 0, 0, 0.1);
 	--contentPadding: 16px;
 	--minContentWidth: 320px;
-	--maxContentWidth: 466px;
+	--maxContentWidth: 540px;
 }
 
 body {
@@ -113,4 +113,3 @@ a:hover {
 .links a {
 	margin-bottom: 16px;
 }
-
