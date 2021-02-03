@@ -1,10 +1,12 @@
 :root {
-	--backgroundPrimary: #121212;
-	--textColorPrimary: #ffffff;
-	--textColorSecondary: rgba(255, 255, 255, 0.6);
+	--backgroundPrimary: #f2f2f2;
+	--textColorPrimary: #111;
+	--textColorSecondary: rgba(0, 0, 0, 0.6);
+	--linkHoverBackground: rgba(0, 0, 0, 0.6);
+	--linkColor: #f2f2f2;
 	--textSemibold: 600;
-	--textRegular: 400;
-	--divider: rgba(255, 255, 255, 0.15);
+	--textRegular: 460;
+	--divider: rgba(0, 0, 0, 0.1);
 	--contentPadding: 16px;
 	--minContentWidth: 320px;
 	--maxContentWidth: 466px;
@@ -43,36 +45,41 @@ h6 {
 
 h1 {
 	font-size: 2em;
-	letter-spacing: -0.5px;
+	letter-spacing: -1.5px;
 	margin-bottom: 8px;
 }
 
 h2 {
-	font-size: 0.875em;
-	letter-spacing: 1px;
-	text-transform: uppercase;
-	color: var(--textColorSecondary);
+	font-size: 1.5em;
+	letter-spacing: -1px;
+	padding-bottom: 16px;
 }
 
 h3 {
-	font-size: 1.5em;
-	letter-spacing: -0.5px;
+	font-size: 1em;
+	font-weight: 600;
 	margin-bottom: 8px;
 }
 
 p {
 	font-weight: var(--textRegular);
-	font-size: 1.125em;
-	letter-spacing: 0.1px;
+	color: var(--textColorSecondary);
+	font-size: 1em;
+	line-height: 1.5em;
 }
 
 a {
 	text-decoration: none;
 	color: var(--textColorPrimary);
+	padding: 2px 4px;
+	border-radius: 4px;
+	margin: -4px;
+	font-weight: 600;
 }
 
 a:hover {
-	text-decoration: underline;
+	background-color: var(--linkHoverBackground);
+	color: var(--linkColor);
 }
 
 .app {
@@ -97,9 +104,13 @@ a:hover {
 .links {
 	border: none;
 	margin-bottom: 64px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	align-items: flex-start;
 }
 
 .links a {
-	display: block;
-	padding: 12px 0;
+	margin-bottom: 16px;
 }
+
